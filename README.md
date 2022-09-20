@@ -1,1 +1,3 @@
 # World_Weather_Analysis
+## Purpose
+A company by the name of PlanMyTrip had requested assistance in the formation of their new app which would allow app users to plan their vacations based on their preferred weather conditions as well as offer near by hotels for them to stay at. Users would input their desired temperature ranges and the app would present to the user a wide range of cities across the world that satisfied thosed ranges as well as offer insight onto the closest hotel to that city as well as the weather conditions. The app would also be able to help the user plan their travel routes in case they wanted to visit multiple cities during their trips. 
